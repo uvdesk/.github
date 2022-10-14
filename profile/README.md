@@ -37,13 +37,19 @@
 
 <p align="center">
     <a href="https://www.uvdesk.com/en/">
-        <img class="flag-img" src="https://cdn.uvdesk.com/uvdesk/opensource/helpdesk-preview.png" alt="Helpdesk Preview" width="">
+        <img class="flag-img" src="https://cdn.uvdesk.com/uvdesk/opensource/helpdesk-preview.png" alt="Helpdesk Preview">
     </a>
 </p>
 
-[Uvdesk community helpdesk][1] project skeleton packaged along with the bare essential utilities and tools to build and customize your own helpdesk solutions.
+[Uvdesk][1] is an opensource helpdesk solution packaged with all the essential tools that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine.
 
-Build on top of [symfony](https://symfony.com/) and [backbone.js](https://backbonejs.org/), uvdesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine.
+Built on top of [symfony](https://symfony.com/) and [backbone.js](https://backbonejs.org/), uvdesk is a service-oriented, event-driven helpdesk system that's easy to use, highly configurable and can easily be scaled to meet your business requirements.
+
+<p align="center">
+    <a href="https://www.uvdesk.com/en/">
+        <img class="flag-img" src="https://cdn.uvdesk.com/uvdesk/opensource/featured-highlights.png" alt="Featured Stories">
+    </a>
+</p>
 
 License
 --------------
