@@ -51,18 +51,25 @@ Built on top of [symfony](https://symfony.com/) and [backbone.js](https://backbo
     </a>
 </p>
 
-License
---------------
+# Community
 
-All libraries and bundles included in the UVDesk Community Edition are released under the [MIT][12] license.
+Get uvdesk support by interacting with our community on our [forum](https://forums.uvdesk.com/) or our [chat room][https://gitter.im/uvdesk/community].
 
-Security Vulnerabilities
---------------
+Would like to help us in improving our platform? Start by reading our [Contribution Guidelines](https://github.com/uvdesk/community-skeleton/blob/master/.github/CONTRIBUTING.md)!
+
+
+# License
+
+All libraries and bundles included in the Uvdesk Community Edition are released under the [MIT][12] license.
+
+
+# Security Vulnerabilities
 
 Please don't disclose any security vulnerabilities publicly. If you find any security vulnerability in our platform then please write us at [support@uvdesk.com](mailto:support@uvdesk.com).
 
-Contributions
---------------
+
+# Contributions
+
 This project is hosted on [Open Collective][13] and exists thanks to our contributors:
 
 <a href="https://github.com/uvdesk/community-skeleton/graphs/contributors"><img src="https://opencollective.com/uvdesk/contributors.svg?width=890&button=false"/></a>
