@@ -43,7 +43,7 @@
 
 [Uvdesk][1] is an opensource helpdesk solution packaged with all the essential tools that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine.
 
-Built on top of [symfony](https://symfony.com/) and [backbone.js](https://backbonejs.org/), uvdesk is a service-oriented, event-driven helpdesk system that's easy to use, highly configurable and can easily be scaled to meet your business requirements.
+Built on top of [Symfony](https://symfony.com/) and [Backbone.js](https://backbonejs.org/), uvdesk is an event-driven, service-oriented helpdesk system that's easy to use, highly configurable and can easily be scaled to meet your business requirements.
 
 # Community
 
