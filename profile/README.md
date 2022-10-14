@@ -45,22 +45,22 @@
 
 Built on top of [symfony](https://symfony.com/) and [backbone.js](https://backbonejs.org/), uvdesk is a service-oriented, event-driven helpdesk system that's easy to use, highly configurable and can easily be scaled to meet your business requirements.
 
+# Community
+
+Get uvdesk support by interacting with our community on our [forum](https://forums.uvdesk.com/) or our [chat room](https://gitter.im/uvdesk/community).
+
+Would like to help us in improving the uvdesk platform? Start by reading our [contribution guidelines](https://github.com/uvdesk/community-skeleton/blob/master/.github/CONTRIBUTING.md)!
+
 <p align="center">
     <a href="https://www.uvdesk.com/en/">
         <img class="flag-img" src="https://cdn.uvdesk.com/uvdesk/opensource/featured-highlights.png" alt="Featured Stories">
     </a>
 </p>
 
-# Community
-
-Get uvdesk support by interacting with our community on our [forum](https://forums.uvdesk.com/) or our [chat room][https://gitter.im/uvdesk/community].
-
-Would like to help us in improving our platform? Start by reading our [Contribution Guidelines](https://github.com/uvdesk/community-skeleton/blob/master/.github/CONTRIBUTING.md)!
-
 
 # License
 
-All libraries and bundles included in the Uvdesk Community Edition are released under the [MIT][12] license.
+All libraries and bundles included with the Uvdesk opensource edition are released under the [MIT][12] license.
 
 
 # Security Vulnerabilities
