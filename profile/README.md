@@ -45,6 +45,8 @@
 
 Built on top of [Symfony](https://symfony.com/) and [Backbone.js](https://backbonejs.org/), uvdesk is an event-driven, service-oriented helpdesk system that's easy to use, highly configurable and can easily be scaled to meet your business requirements.
 
+> Need assistance installing & setting up uvdesk on your servers? [Request a customization][33] & get your server setup by our experts. 
+
 # Community
 
 <p align="center">
@@ -118,3 +120,4 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 [30]: https://www.uvdesk.com/en/blog/uvdesk-marketing-announcement/
 [31]: https://support.uvdesk.com/es/blog/uvdesk-what-is-kudos
 [32]: https://www.uvdesk.com/en/blog/language-translation-in-uvdesk-open-source-helpdesk/
+[33]: https://store.webkul.com/uvdesk-open-source-installation-plan.html
