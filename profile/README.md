@@ -62,7 +62,7 @@ Would like to help us in improving the platform even more? Start by reading our 
 
 # License
 
-All libraries and bundles included with the Uvdesk opensource edition are released under the [OSL-3.0 license][12] license.
+All libraries and bundles included with the Uvdesk opensource edition are released under the [OSL-3.0 license][12].
 
 
 # Security Vulnerabilities
