@@ -62,7 +62,7 @@ Would like to help us in improving the platform even more? Start by reading our 
 
 # License
 
-All libraries and bundles included with the Uvdesk opensource edition are released under the [MIT][12] license.
+All libraries and bundles included with the Uvdesk opensource edition are released under the [OSL-3.0 license][12] license.
 
 
 # Security Vulnerabilities
@@ -99,7 +99,7 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 [9]: https://webkul.com/
 [10]: https://www.uvdesk.com/en/team/
 [11]: https://github.com/uvdesk/mailbox-component
-[12]: https://github.com/uvdesk/community-skeleton/blob/master/LICENSE
+[12]: https://github.com/uvdesk/community-skeleton/blob/master/LICENSE.txt
 [13]: https://opencollective.com/uvdesk
 [14]: https://docs.uvdesk.com/
 [15]: https://demo.uvdesk.com/
